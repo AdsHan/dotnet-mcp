@@ -1,0 +1,6 @@
+@ModelContextProtocol.API_HostAddress = http://localhost:5246
+
+GET {{ModelContextProtocol.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
